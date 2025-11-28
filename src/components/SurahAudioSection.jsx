@@ -18,7 +18,7 @@ const surahList = [
   { name: "Al-Qaria", audio: "/surah/14.mp3" },
   { name: "Al-Adiyat", audio: "/surah/15.mp3" },
   { name: "Az-Zalzala", audio: "/surah/16.mp3" },
-  { name: "Al-Bayyina", audio: "/surah/17.mp3" },
+ 
   { name: "Al-Qadr", audio: "/surah/18.mp3" },
   { name: "Al-Alaq", audio: "/surah/19.mp3" },
   { name: "At-Tin", audio: "/surah/20.mp3" },
