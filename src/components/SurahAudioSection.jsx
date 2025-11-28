@@ -32,13 +32,8 @@ const surahList = [
   { name: "Al-Ala", audio: "/surah/28.mp3" },
   { name: "At-Tariq", audio: "/surah/29.mp3" },
   { name: "Al-Burooj", audio: "/surah/30.mp3" },
-  { name: "Al-Inshiqaq", audio: "/surah/31.mp3" },
-  { name: "Al-Mutaffifin", audio: "/surah/32.mp3" },
-  { name: "Al-Infitar", audio: "/surah/33.mp3" },
-  { name: "At-Takwir", audio: "/surah/34.mp3" },
-  { name: "Abasa", audio: "/surah/35.mp3" },
-  { name: "An-Naziat", audio: "/surah/36.mp3" },
-  { name: "An-Naba", audio: "/surah/37.mp3" },
+  
+  
   
 ];
 
