@@ -10,7 +10,7 @@ const surahList = [
   { name: "Al-Masadd", audio: "/surah/06.mp3" },
   { name: "Al-Kafiroon", audio: "/surah/07.mp3" },
   { name: "Al-Kauther", audio: "/surah/08.mp3" },
-  { name: "Aal-E-Imran", audio: "/surah/09.mp3" },
+ 
   { name: "Al-Maun", audio: "/surah/10.mp3" },
   { name: "Quraish", audio: "/surah/11.mp3" },
   { name: "Al-Humaza", audio: "/surah/12.mp3" },
@@ -39,7 +39,7 @@ const surahList = [
   { name: "Abasa", audio: "/surah/35.mp3" },
   { name: "An-Naziat", audio: "/surah/36.mp3" },
   { name: "An-Naba", audio: "/surah/37.mp3" },
-  { name: "Al-Baqara", audio: "/surah/38.mp3" },
+  
 ];
 
 export default function SurahAudioSection() {
