@@ -48,7 +48,7 @@ export default function Navbar() {
 
        
         <div className="hidden lg:flex gap-8">
-          {["home", "prayer", "hadith", "dua"].map((route) => (
+          {["home", "prayer", "hadith", "dua", "surah"].map((route) => (
             <button
               key={route}
               onClick={() => scrollTo(route)}

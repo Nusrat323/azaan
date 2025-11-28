@@ -7,6 +7,7 @@ import IntroSection from "../../components/IntroSection";
 import HadithSection from "../../components/HadithSection";
 import Dua from "../../components/Dua";
 import Footer from "../../components/Footer";
+import SurahAudioSection from "../../components/SurahAudioSection";
 
 export default function Home() {
   
@@ -39,6 +40,10 @@ export default function Home() {
         
         <section id="dua">
           <Dua />
+        </section>
+
+        <section id="surah">
+         <SurahAudioSection />
         </section>
 
         <Footer />

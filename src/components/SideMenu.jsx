@@ -28,7 +28,7 @@ export default function SideMenu({ open, setOpen, handleScroll }) {
 
       
       <ul className="flex flex-col gap-3 mt-6 ml-4 text-lg">
-        {["prayer", "hadith", "dua"].map((route) => (
+        {["prayer", "hadith", "dua", "surah"].map((route) => (
           <li key={route}>
             <button
               className="w-full text-left py-2 px-3 rounded-lg hover:bg-gray-700 transition-colors duration-300 font-medium"
