@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 
 
 const surahList = [
-  { name: "Al-Fatihah", audio: "/surah/01.mp3" },
+  { name: "Al-Fatiha", audio: "/surah/01.mp3" },
   { name: "An-Nas", audio: "/surah/02.mp3" },
   { name: "Al-Falaq", audio: "/surah/03.mp3" },
   { name: "Al-Ikhlas", audio: "/surah/04.mp3" },
